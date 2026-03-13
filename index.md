@@ -1,3 +1,5 @@
 ---
-title: Welcome to my blog!
+title: My First Blog!
 ---
+
+# *Quidquid latine dictum sit, altum videtur*
